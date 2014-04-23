@@ -1,0 +1,101 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".PartieNormal"
+    android:orientation="vertical"
+    style="@style/fond">
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="6dp"
+        android:paddingTop="6dp"
+        style="@style/fondBois">
+
+        <ImageView
+            android:id="@+id/hero"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/hero"
+            android:contentDescription="Anachronox"
+            android:layout_gravity="center_horizontal" />
+
+        <TextView
+            android:id="@+id/titre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/victoire"
+            android:layout_gravity="center_horizontal"
+            android:gravity="center_horizontal"
+            style="@style/texteTitre"
+            android:textColor="@color/txt_menu" />
+
+        <LinearLayout
+            android:id="@+id/wrapChrono"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center">
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center_horizontal">
+
+            <ImageView
+                android:id="@+id/valeur1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/defaut"
+                android:contentDescription="couleur1"
+                android:layout_weight=".25" />
+
+            <ImageView
+                android:id="@+id/valeur2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/defaut"
+                android:contentDescription="couleur2"
+                android:layout_weight=".25" />
+
+            <ImageView
+                android:id="@+id/valeur3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/defaut"
+                android:contentDescription="couleur3"
+                android:layout_weight=".25" />
+
+            <ImageView
+                android:id="@+id/valeur4"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/defaut"
+                android:contentDescription="couleur4"
+                android:layout_weight=".25" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/retourMenu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/menu"
+        style="@style/btnMenuMain"
+        android:layout_weight="2" />
+
+</LinearLayout>

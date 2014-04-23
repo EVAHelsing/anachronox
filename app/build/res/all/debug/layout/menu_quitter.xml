@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:paddingTop="32dp"
+    android:paddingLeft="8dp"
+    android:paddingBottom="32dp"
+    android:paddingRight="8dp"
+    style="@style/fond">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerVertical="true">
+
+        <TextView
+            android:id="@+id/titre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/menu_titre_pause"
+            style="@style/texteTitre"
+            android:gravity="center_horizontal"/>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="60dp"
+            android:paddingRight="60dp">
+
+            <Button
+                android:id="@+id/oui"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="@string/oui"
+                style="@style/btnMenuMain" />
+
+            <Button
+                android:id="@+id/non"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:text="@string/non"
+                style="@style/btnMenuMain" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>
+<!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/layout/menu_quitter.xml -->

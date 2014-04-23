@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/values/color.xml -->
+    <eat-comment />
+
+    <color name="txt_chargement">#666261</color>
+    <color name="txt_menu">#a7711d</color>
+    <!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/values/dimens.xml -->
+    <eat-comment />
+
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/values/strings.xml -->
+    <eat-comment />
+
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Anachronox</string>
+    <string name="bleu">Bleu</string>
+    <string name="chargement">Chargement…</string>
+    <string name="ciant">Ciant</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="jaune">Jaune</string>
+    <string name="menu">Menu</string>
+    <string name="menu_aide">Aide</string>
+    <string name="menu_annuler_couleur">Annuler</string>
+    <string name="menu_nouvelle_partie">Nouvelle partie</string>
+    <string name="menu_options">Options</string>
+    <string name="menu_pause">Pause</string>
+    <string name="menu_quitter">Quitter</string>
+    <string name="menu_recommencer">Recommencer</string>
+    <string name="menu_reprendre">Reprendre</string>
+    <string name="menu_retour">Retour</string>
+    <string name="menu_scores">Scores\n(à venir)</string>
+    <string name="menu_titre_pause">Voulez vous retourner\nau menu ?</string>
+    <string name="menu_titre_type_partie">Mode de jeu</string>
+    <string name="menu_titre_vitoire">Vous avez gagné !</string>
+    <string name="menu_type_chrono">Chronox</string>
+    <string name="menu_type_normal">Entraînement</string>
+    <string name="msgAide">Essayez de trouver la combinaison d\'Anachronox !\n\n\n
+Cette combinaison est composée de 4 couleurs parmi 8 disponibles pouvant être utilisées plusieurs fois.\n\n
+Après avoir joué 4 couleurs, la correction est effectuée.\n\n
+Pour chaque gemme mal positionné vous obtenez un gemme blanc, et pour ceux bien positionnés, un gemme rouge.\n\n\n
+Bonne chance !</string>
+    <string name="non">Non</string>
+    <string name="orange">Orange</string>
+    <string name="oui">Oui</string>
+    <string name="rose">Rose</string>
+    <string name="rouge">Rouge</string>
+    <string name="title_activity_aide">Aide</string>
+    <string name="title_activity_main">Main</string>
+    <string name="title_activity_partie_chrono">PartieChrono</string>
+    <string name="title_activity_partie_normal">PartieNormal</string>
+    <string name="title_activity_score">Score</string>
+    <string name="title_activity_type_de_partie">TypeDePartie</string>
+    <string name="title_activity_victoire">Victoire</string>
+    <string name="validationQuitter">Voulez-vous quitter ?</string>
+    <string name="vert">Vert</string>
+    <string name="victoire">Vous avez réussi à\nvaincre\nle dieu du temps !</string>
+    <string name="violet">Violet</string>
+    <!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/values/styles.xml -->
+    <eat-comment />
+
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="btnCouleur">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">@dimen/activity_horizontal_margin</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_weight">.25</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="btnMenuMain" parent="texte">
+        <item name="android:background">@drawable/etat_btn</item>
+        <item name="android:textColor">@color/txt_menu</item>
+    </style>
+
+    <style name="fond">
+        <item name="android:background">@drawable/fond</item>
+    </style>
+
+    <style name="fondBois">
+        <item name="android:background">@drawable/fond_bois</item>
+    </style>
+
+    <style name="texte">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="texteTitre" parent="texte">
+        <item name="android:lineSpacingExtra">5sp</item>
+        <item name="android:textColor">@color/txt_menu</item>
+    </style>
+
+</resources>

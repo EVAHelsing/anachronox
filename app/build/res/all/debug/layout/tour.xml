@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"
+        android:layout_weight="1">
+
+        <ImageView
+            android:id="@+id/valeur1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/defaut"
+            android:contentDescription="couleur1"
+            android:layout_weight=".25"/>
+
+        <ImageView
+            android:id="@+id/valeur2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/defaut"
+            android:contentDescription="couleur2"
+            android:layout_weight=".25"/>
+
+        <ImageView
+            android:id="@+id/valeur3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/defaut"
+            android:contentDescription="couleur3"
+            android:layout_weight=".25" />
+
+        <ImageView
+            android:id="@+id/valeur4"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/defaut"
+            android:contentDescription="couleur4"
+            android:layout_weight=".25" />
+    </LinearLayout>
+
+
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:paddingLeft="8dp"
+        android:paddingRight="8dp"
+        android:gravity="center"
+        android:layout_weight="2">
+
+        <ImageView
+            android:id="@+id/correction1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/correction_defaut"
+            android:contentDescription="correction1"
+            android:layout_weight=".25" />
+
+        <ImageView
+            android:id="@+id/correction2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/correction_defaut"
+            android:contentDescription="correction2"
+            android:layout_weight=".25" />
+
+        <ImageView
+            android:id="@+id/correction3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/correction_defaut"
+            android:contentDescription="correction3"
+            android:layout_weight=".25" />
+
+        <ImageView
+            android:id="@+id/correction4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="fitCenter"
+            android:src="@drawable/correction_defaut"
+            android:contentDescription="correction4"
+            android:layout_weight=".25" />
+
+    </LinearLayout>
+
+</LinearLayout>
+<!-- From: file:/F:/travail/workspace/anachronox/app/src/main/res/layout/tour.xml -->

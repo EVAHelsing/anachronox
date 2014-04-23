@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="F:\travail\workspace\anachronox\app\src\main\assets" >
+            <file
+                name="LithosPro-Regular.otf"
+                path="F:\travail\workspace\anachronox\app\src\main\assets\LithosPro-Regular.otf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\travail\workspace\anachronox\app\src\debug\assets" />
+    </dataSet>
+
+</merger>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="F:\travail\workspace\anachronox\app\src\main\res" >
+            <file
+                name="etat_btn"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable\etat_btn.xml"
+                qualifiers=""
+                type="drawable" />
+            <file
+                name="bleu_2"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\bleu_2.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_active"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\btn_active.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="btn_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\btn_defaut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ciant_1"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\ciant_1.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="correction_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\correction_defaut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="correction_juste"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\correction_juste.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="correction_mal_place"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\correction_mal_place.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\defaut.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fond"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\fond.jpg"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fond_bois"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\fond_bois.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fond_chargement"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\fond_chargement.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_bottom"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\fond_jeu_bottom.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_top"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\fond_jeu_top.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="hero"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\hero.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\ic_launcher.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="jaune_3"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\jaune_3.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\logo.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="orange_4"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\orange_4.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="rose_5"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\rose_5.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="rouge_6"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\rouge_6.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="vert_7"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\vert_7.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="violet_8"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-hdpi\violet_8.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="bleu_2"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\bleu_2.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="btn_active"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\btn_active.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="btn_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\btn_defaut.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="ciant_1"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\ciant_1.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="correction_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\correction_defaut.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="correction_juste"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\correction_juste.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="correction_mal_place"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\correction_mal_place.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\defaut.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fond"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\fond.jpg"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fond_bois"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\fond_bois.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fond_chargement"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\fond_chargement.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_bottom"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\fond_jeu_bottom.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_top"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\fond_jeu_top.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="hero"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\hero.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="jaune_3"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\jaune_3.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\logo.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="orange_4"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\orange_4.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="rose_5"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\rose_5.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="rouge_6"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\rouge_6.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="vert_7"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\vert_7.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="violet_8"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-ldpi\violet_8.png"
+                qualifiers="ldpi"
+                type="drawable" />
+            <file
+                name="bleu_2"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\bleu_2.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_active"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\btn_active.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="btn_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\btn_defaut.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ciant_1"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\ciant_1.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="correction_defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\correction_defaut.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="correction_juste"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\correction_juste.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="correction_mal_place"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\correction_mal_place.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="defaut"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\defaut.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fond"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\fond.jpg"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fond_bois"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\fond_bois.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fond_chargement"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\fond_chargement.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_bottom"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\fond_jeu_bottom.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="fond_jeu_top"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\fond_jeu_top.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="hero"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\hero.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\ic_launcher.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="jaune_3"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\jaune_3.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="logo"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\logo.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="orange_4"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\orange_4.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="rose_5"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\rose_5.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="rouge_6"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\rouge_6.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="vert_7"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\vert_7.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="violet_8"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-mdpi\violet_8.png"
+                qualifiers="mdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-xhdpi\ic_launcher.png"
+                qualifiers="xhdpi"
+                type="drawable" />
+            <file
+                name="ic_launcher"
+                path="F:\travail\workspace\anachronox\app\src\main\res\drawable-xxhdpi\ic_launcher.png"
+                qualifiers="xxhdpi"
+                type="drawable" />
+            <file
+                name="activity_aide"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_aide.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_main"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_main.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_partie_chrono"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_partie_chrono.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_partie_normal"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_partie_normal.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_scores"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_scores.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_splash"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_splash.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_type_de_partie"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_type_de_partie.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="activity_victoire"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\activity_victoire.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="menu_quitter"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\menu_quitter.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="score"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\score.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="select_couleurs"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\select_couleurs.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="tour"
+                path="F:\travail\workspace\anachronox\app\src\main\res\layout\tour.xml"
+                qualifiers=""
+                type="layout" />
+            <file
+                name="score"
+                path="F:\travail\workspace\anachronox\app\src\main\res\menu\score.xml"
+                qualifiers=""
+                type="menu" />
+            <file
+                path="F:\travail\workspace\anachronox\app\src\main\res\values\color.xml"
+                qualifiers="" >
+                <color name="txt_menu" >#a7711d
+                </color>
+                <color name="txt_chargement" >#666261
+                </color>
+            </file>
+            <file
+                path="F:\travail\workspace\anachronox\app\src\main\res\values\dimens.xml"
+                qualifiers="" >
+                <dimen name="activity_horizontal_margin" >16dp
+                </dimen>
+                <dimen name="activity_vertical_margin" >16dp
+                </dimen>
+            </file>
+            <file
+                path="F:\travail\workspace\anachronox\app\src\main\res\values\strings.xml"
+                qualifiers="" >
+                <string name="action_settings" >Settings
+                </string>
+                <string name="title_activity_main" >Main
+                </string>
+                <string name="orange" >Orange
+                </string>
+                <string name="menu_titre_vitoire" >Vous avez gagné !
+                </string>
+                <string name="menu_scores" >Scores\n(à venir)
+                </string>
+                <string name="jaune" >Jaune
+                </string>
+                <string name="menu_options" >Options
+                </string>
+                <string name="menu_titre_pause" >Voulez vous retourner\nau menu ?
+                </string>
+                <string name="menu_recommencer" >Recommencer
+                </string>
+                <string name="menu_reprendre" >Reprendre
+                </string>
+                <string name="non" >Non
+                </string>
+                <string name="menu" >Menu
+                </string>
+                <string name="menu_nouvelle_partie" >Nouvelle partie
+                </string>
+                <string name="menu_type_normal" >Entraînement
+                </string>
+                <string name="hello_world" >Hello world!
+                </string>
+                <string name="msgAide" >Essayez de trouver la combinaison d\'Anachronox !\n\n\n
+Cette combinaison est composée de 4 couleurs parmi 8 disponibles pouvant être utilisées plusieurs fois.\n\n
+Après avoir joué 4 couleurs, la correction est effectuée.\n\n
+Pour chaque gemme mal positionné vous obtenez un gemme blanc, et pour ceux bien positionnés, un gemme rouge.\n\n\n
+Bonne chance !
+                </string>
+                <string name="rose" >Rose
+                </string>
+                <string name="bleu" >Bleu
+                </string>
+                <string name="validationQuitter" >Voulez-vous quitter ?
+                </string>
+                <string name="violet" >Violet
+                </string>
+                <string name="title_activity_score" >Score
+                </string>
+                <string name="title_activity_partie_normal" >PartieNormal
+                </string>
+                <string name="menu_type_chrono" >Chronox
+                </string>
+                <string name="ciant" >Ciant
+                </string>
+                <string name="title_activity_aide" >Aide
+                </string>
+                <string name="title_activity_victoire" >Victoire
+                </string>
+                <string name="menu_quitter" >Quitter
+                </string>
+                <string name="menu_pause" >Pause
+                </string>
+                <string name="title_activity_partie_chrono" >PartieChrono
+                </string>
+                <string name="menu_aide" >Aide
+                </string>
+                <string name="victoire" >Vous avez réussi à\nvaincre\nle dieu du temps !
+                </string>
+                <string name="app_name" >Anachronox
+                </string>
+                <string name="menu_titre_type_partie" >Mode de jeu
+                </string>
+                <string name="menu_retour" >Retour
+                </string>
+                <string name="title_activity_type_de_partie" >TypeDePartie
+                </string>
+                <string name="chargement" >Chargement…
+                </string>
+                <string name="rouge" >Rouge
+                </string>
+                <string name="oui" >Oui
+                </string>
+                <string name="menu_annuler_couleur" >Annuler
+                </string>
+                <string name="vert" >Vert
+                </string>
+            </file>
+            <file
+                path="F:\travail\workspace\anachronox\app\src\main\res\values\styles.xml"
+                qualifiers="" >
+
+                <style name="btnCouleur" >
+                    <item name="android:background">
+@android:color/transparent
+                    </item>
+                    <item name="android:padding">
+@dimen/activity_horizontal_margin
+                    </item>
+                    <item name="android:scaleType">
+fitCenter
+                    </item>
+                    <item name="android:layout_weight">
+.25
+                    </item>
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+wrap_content
+                    </item>
+                </style>
+
+                <style name="texte" >
+                    <item name="android:textAllCaps">
+true
+                    </item>
+                    <item name="android:textSize">
+24sp
+                    </item>
+                </style>
+
+                <style
+                    name="btnMenuMain"
+                    parent="texte" >
+                    <item name="android:background">
+@drawable/etat_btn
+                    </item>
+                    <item name="android:textColor">
+@color/txt_menu
+                    </item>
+                </style>
+
+                <style
+                    name="DialogTheme"
+                    parent="android:Theme.Dialog" >
+                    <item name="android:layout_width">
+fill_parent
+                    </item>
+                    <item name="android:layout_height">
+fill_parent
+                    </item>
+
+                    <!-- No backgrounds, titles or window float -->
+                    <item name="android:windowBackground">
+@null
+                    </item>
+                    <item name="android:windowNoTitle">
+true
+                    </item>
+                    <item name="android:windowIsFloating">
+false
+                    </item>
+                    <item name="android:windowFullscreen">
+true
+                    </item>
+                </style>
+
+                <style name="fondBois" >
+                    <item name="android:background">
+@drawable/fond_bois
+                    </item>
+                </style>
+
+                <style name="fond" >
+                    <item name="android:background">
+@drawable/fond
+                    </item>
+                </style>
+
+                <style
+                    name="texteTitre"
+                    parent="texte" >
+                    <item name="android:lineSpacingExtra">
+5sp
+                    </item>
+                    <item name="android:textColor">
+@color/txt_menu
+                    </item>
+                </style>
+
+                <style
+                    name="AppTheme"
+                    parent="android:Theme.Holo.Light.DarkActionBar" >
+
+                    <!-- Customize your theme here. -->
+                </style>
+            </file>
+            <file
+                path="F:\travail\workspace\anachronox\app\src\main\res\values-w820dp\dimens.xml"
+                qualifiers="w820dp" >
+                <dimen name="activity_horizontal_margin" >64dp
+                </dimen>
+            </file>
+        </source>
+        <source path="F:\travail\workspace\anachronox\app\build\res\rs\debug" />
+        <source path="F:\travail\workspace\anachronox\app\build\res\generated\debug" />
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="F:\travail\workspace\anachronox\app\src\debug\res" />
+    </dataSet>
+
+</merger>

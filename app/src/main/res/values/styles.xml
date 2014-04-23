@@ -1,0 +1,57 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+
+
+    <!-- LES BOUTTONS -->
+    <style name="btnMenuMain" parent="texte">
+        <item name="android:background">@drawable/etat_btn</item>
+        <item name="android:textColor">@color/txt_menu</item>
+    </style>
+
+    <style name="texteTitre" parent="texte">
+        <item name="android:lineSpacingExtra">5sp</item>
+        <item name="android:textColor">@color/txt_menu</item>
+    </style>
+
+    <style name="texte">
+        <item name="android:textAllCaps">true</item>
+        <item name="android:textSize">24sp</item>
+    </style>
+
+    <style name="btnCouleur">
+        <item name="android:background">@android:color/transparent</item>
+        <item name="android:padding">@dimen/activity_horizontal_margin</item>
+        <item name="android:scaleType">fitCenter</item>
+        <item name="android:layout_weight">.25</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+
+    <!-- LES FONDS -->
+    <style name="fond">
+        <item name="android:background">@drawable/fond</item>
+    </style>
+
+    <style name="fondBois">
+        <item name="android:background">@drawable/fond_bois</item>
+    </style>
+
+
+
+    <style name="DialogTheme" parent="android:Theme.Dialog">
+
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+
+        <!-- No backgrounds, titles or window float -->
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+</resources>

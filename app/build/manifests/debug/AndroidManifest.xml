@@ -1,0 +1,29 @@
+<!-- From: file:/F:/travail/workspace/anachronox/app/src/main/AndroidManifest.xml --><manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="fr.alexdemey.anachronox">
+
+    <uses-sdk android:minSdkVersion="14" android:targetSdkVersion="19"/>
+
+    <application android:allowBackup="true" android:debuggable="true" android:icon="@drawable/ic_launcher" android:label="@string/app_name" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen">
+        <activity android:label="@string/app_name" android:name="fr.alexdemey.anachronox.Splash" android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/title_activity_partie_chrono" android:name="fr.alexdemey.anachronox.PartieChrono" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_partie_normal" android:name="fr.alexdemey.anachronox.PartieNormal" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_main" android:name="fr.alexdemey.anachronox.Main" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_type_de_partie" android:name="fr.alexdemey.anachronox.TypeDePartie" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_victoire" android:name="fr.alexdemey.anachronox.Victoire" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_aide" android:name="fr.alexdemey.anachronox.Aide" android:screenOrientation="portrait">
+        </activity>
+        <activity android:label="@string/title_activity_score" android:name="fr.alexdemey.anachronox.Scores" android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>
